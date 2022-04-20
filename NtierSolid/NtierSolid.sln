@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcces", "DataAcces\DataAcces.csproj", "{368D8F74-5C4E-4FFF-928D-5955FEA5D095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBL", "BBL\BBL.csproj", "{6E472537-8872-4606-AE16-EC8751FC50FB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368D8F74-5C4E-4FFF-928D-5955FEA5D095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368D8F74-5C4E-4FFF-928D-5955FEA5D095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368D8F74-5C4E-4FFF-928D-5955FEA5D095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368D8F74-5C4E-4FFF-928D-5955FEA5D095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E472537-8872-4606-AE16-EC8751FC50FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E472537-8872-4606-AE16-EC8751FC50FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E472537-8872-4606-AE16-EC8751FC50FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E472537-8872-4606-AE16-EC8751FC50FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

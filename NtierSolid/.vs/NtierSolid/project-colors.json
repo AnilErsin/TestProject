@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "368d8f74-5c4e-4fff-928d-5955fea5d095": {
+      "ProjectGuid": "368d8f74-5c4e-4fff-928d-5955fea5d095",
+      "DisplayName": "DataAcces",
+      "ColorIndex": 0
+    },
+    "6e472537-8872-4606-ae16-ec8751fc50fb": {
+      "ProjectGuid": "6e472537-8872-4606-ae16-ec8751fc50fb",
+      "DisplayName": "BBL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

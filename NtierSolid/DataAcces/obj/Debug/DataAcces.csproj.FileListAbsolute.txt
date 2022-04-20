@@ -1,0 +1,12 @@
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\DataAcces.dll.config
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\obj\Debug\DataAcces.csproj.AssemblyReference.cache
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\obj\Debug\DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\obj\Debug\DataAcces.csproj.CopyComplete
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\EREN ÇAMUR\Desktop\TestProject\NtierSolid\DataAcces\obj\Debug\DataAcces.pdb
